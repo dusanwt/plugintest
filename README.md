@@ -1,0 +1,2 @@
+# plugintest
+test of plugin
